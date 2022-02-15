@@ -1,0 +1,23 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lenguajes web frontened</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+body {
+    background-color:f1eaea;
+    font-family: 'open sans', 'helvetica neve', helvetica, arial, sans-serif;
+    font-size: 22px;
+}
+div {
+    color:999999;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid 999999;
+    background-color: bacbf0;
+    border: solid 2px 999999;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px c0c2c3;
+}
